@@ -1,0 +1,23 @@
+2022/10/08-15:36:16.733 3fa4 Reusing MANIFEST C:\Users\KLIN\Desktop\GTU chat bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/08-15:36:16.735 3fa4 Recovering log #1857
+2022/10/08-15:36:17.009 3fa4 Reusing old log C:\Users\KLIN\Desktop\GTU chat bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001857.log 
+2022/10/08-15:36:36.858 3fa4 Level-0 table #1867: started
+2022/10/08-15:36:36.882 3fa4 Level-0 table #1867: 1569570 bytes OK
+2022/10/08-15:36:36.883 3fa4 Delete type=0 #1857
+2022/10/08-15:36:36.909 2914 Compacting 1@1 + 6@2 files
+2022/10/08-15:36:36.991 2914 Generated table #1868@1: 28926 keys, 2249246 bytes
+2022/10/08-15:36:37.052 2914 Generated table #1869@1: 40911 keys, 2260602 bytes
+2022/10/08-15:36:37.092 2914 Generated table #1870@1: 9962 keys, 2153092 bytes
+2022/10/08-15:36:37.136 2914 Generated table #1871@1: 32476 keys, 2155146 bytes
+2022/10/08-15:36:37.273 2914 Generated table #1872@1: 122182 keys, 2279438 bytes
+2022/10/08-15:36:37.419 2914 Generated table #1873@1: 121078 keys, 2278371 bytes
+2022/10/08-15:36:37.428 2914 Generated table #1874@1: 5469 keys, 103367 bytes
+2022/10/08-15:36:37.428 2914 Compacted 1@1 + 6@2 files => 13479262 bytes
+2022/10/08-15:36:37.429 2914 compacted to: files[ 0 0 7 0 0 0 0 ]
+2022/10/08-15:36:37.430 2914 Delete type=2 #1859
+2022/10/08-15:36:37.430 2914 Delete type=2 #1860
+2022/10/08-15:36:37.430 2914 Delete type=2 #1861
+2022/10/08-15:36:37.430 2914 Delete type=2 #1862
+2022/10/08-15:36:37.430 2914 Delete type=2 #1863
+2022/10/08-15:36:37.430 2914 Delete type=2 #1864
+2022/10/08-15:36:37.430 2914 Delete type=2 #1867
